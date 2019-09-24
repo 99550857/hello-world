@@ -22,4 +22,8 @@ void main(int argc, char *argv[]) {
 	while(s[l]!='\0')
 		l++;
 	printf("%s\n%d",s,l);
-}
+
+
+/**
+changes
+**/
