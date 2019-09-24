@@ -23,3 +23,7 @@ void main(int argc, char *argv[]) {
 		l++;
 	printf("%s\n%d",s,l);
 }
+
+/**
+sdaaaaaa
+**/
