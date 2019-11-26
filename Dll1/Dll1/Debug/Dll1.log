@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathLibrary.cpp
+D:\WindowsLesson\Dll1\Dll1\MathLibrary.cpp(18,1): warning C4273:  “fibonacci_init”: dll 链接不一致
+D:\WindowsLesson\Dll1\Dll1\MathLibrary.h(23,33): message :  参见“fibonacci_init”的前一个定义
+D:\WindowsLesson\Dll1\Dll1\MathLibrary.cpp(27,1): warning C4273:  “fibonacci_next”: dll 链接不一致
+D:\WindowsLesson\Dll1\Dll1\MathLibrary.h(29,33): message :  参见“fibonacci_next”的前一个定义
+D:\WindowsLesson\Dll1\Dll1\MathLibrary.cpp(48,1): warning C4273:  “fibonacci_current”: dll 链接不一致
+D:\WindowsLesson\Dll1\Dll1\MathLibrary.h(32,47): message :  参见“fibonacci_current”的前一个定义
+D:\WindowsLesson\Dll1\Dll1\MathLibrary.cpp(54,1): warning C4273:  “fibonacci_index”: dll 链接不一致
+  正在生成代码...
+D:\WindowsLesson\Dll1\Dll1\MathLibrary.h(35,37): message :  参见“fibonacci_index”的前一个定义
+    正在创建库 D:\WindowsLesson\Dll1\Debug\Dll1.lib 和对象 D:\WindowsLesson\Dll1\Debug\Dll1.exp
+  Dll1.vcxproj -> D:\WindowsLesson\Dll1\Debug\Dll1.dll
